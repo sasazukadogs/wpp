@@ -1,0 +1,11 @@
+{
+  "name": "wpackagist-plugin/wordpress-popular-posts",
+  "description": "WordPress Popular Posts",
+  "type": "wordpress-plugin",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Hector Cabrera"
+    }
+  ]
+}
